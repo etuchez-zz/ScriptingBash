@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+echo "Hola mundo"
 if [ -z "$1" ]
 then
 	echo "Usage: ./tssrecon.sh <ip>"
